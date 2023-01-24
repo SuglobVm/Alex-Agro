@@ -1,0 +1,12 @@
+.idea
+venv
+.git
+.gitignore
+__pycache__
+db.sqlite3
+media
+mediafiles
+static
+staticfiles
+.env.dev
+.env.prod
