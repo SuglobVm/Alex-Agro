@@ -1,0 +1,17 @@
+{
+  "root": true,
+  "extends": [
+    "prettier",
+    "next/core-web-vitals"
+  ],
+  "plugins": [
+    "prettier"
+  ],
+  "rules": {
+    "prettier/prettier": "error",
+    "no-console": "warn",
+    "react-hooks/exhaustive-deps": "off",
+    "react-hooks/rules-of-hooks": "off",
+    "space-before-function-paren": "off"
+  }
+}
